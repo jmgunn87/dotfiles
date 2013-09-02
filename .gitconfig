@@ -1,0 +1,8 @@
+[user]
+    name = James Marshall-Gunn
+    email = jmgunn87@gmail.com
+[core]
+    editor = vim
+    excludesfile = ~/.gitignore
+[github]
+    user = jmgunn87
